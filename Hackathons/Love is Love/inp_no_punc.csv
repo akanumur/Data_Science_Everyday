@@ -1,0 +1,240 @@
+Filename,text,scores,Category
+Test100.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1001.jpg,"['peopl', 'ask', 'see', 'smile', 'look', 'away', 'im', 'afraid', 'knew', 'theyd', 'fall', 'love']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1012.jpg,"['love', 'ocd', 'aie', 'al', 'rao']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1022.jpg,"['love', '']","{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.6369}",Positive
+Test103.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test105.jpg,"['n', 'si']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test107.jpg,"['lesbianvenom', 'lesbianvenom', 'straighten', 'worth', 'ur', 'money', 'use', 'one', 'three', 'week', 'still', 'definit', 'lesbian', 'year', 'live', 'far', 'best', 'joke', 'ever']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1071.jpg,"['eee', 'mu', 'walla', 'ol', 'em', 'eat', 'nimeel', 'ie', 'live', 'societi', 'standard', 'deep', 'wish', 'courag', 'gay', 'proud', 'quot', 'wwwgeckoandflycom', 'es']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test108.jpg,"['trase', 'outcom', 'percept', 'attitud', 'audienc', 'toward', 'major', 'believ', 'portray', 'lgbt', 'commundi', 'indian', 'movi', 'montli', 'neg', 'whale', 'western', 'movi', 'ponit', 'und', 'precis', 'even', 'though', 'neg', 'putray', 'loobt', 'theme', 'indian', 'cinema', 'point', 'improv', 'made', 'ach', 'pod', 'follow', 'evid', 'quot', 'particip', 'theme', 'isth', 'sourc', 'discuss', 'accur', 'portray', 'al', 'generat', 'gemor', 'wenadd', 'sari', 'portray', 'ts', 'gow', 'see', 'lgbt', 'movi', 'good', 'amd', 'ust', 'chaammna', 'simpli', 'make', 'time', 'pass', 'enerisina', 'bat', 'me', 'mace', 'efor', 'w', 'lab', 'gonad', 'old', 'move', 'wh', 'grout', 'becuas', 'mumber', 'lgbt', 'moni', 'realli', 'lgbt', 'theme', 'also', 'substanc', 'less', 'even', 'though', 'ess', 'h', 'goo', 'current', 'theme', 'refer', 'accurst', 'portray', 'lgbt', 'commun', 'movi', 'particip', 'state', 'effort', 'movi', 'make', 'actual', 'depict', 'lobt', 'life', 'pay', 'hecaus', 'ampron', 'ing', 'beth', 'content', 'portray', 'inaccur', 'portray', 'al', 'tn', 'indian', 'vie', 'wear', 'speak', 'ast', 'indian', 'move', 'mot', 'accra', 'becam', 'ave', 'mie', 'lgbtq', 'mean', 'tm', 'the', 'keanmend', 'film', 'tihimg', 'wermuan', 'tat', 'sumdchemt', 'che', 'like', 'guy', 'bt', 'ihe', 'hem', 'cam', 'your', 'krving', 'like', 'girl', 'sudden', 'ge', 'away', 'saachdenli', 'yom', 'tl', 'te', 'bike', 'within', 'second', 'tl', 'like', 'guy', 'ts', 'ever', 'promsitbl', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test109.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1122.jpg,"['', 'zeigler', 'author', 'fair', 'play', 'lgbt', 'athlet', 'claim', 'right', 'place', 'sport', 'defi', 'motion', 'sport', 'inberemti', 'homophob', 'part', 'keep', 'gay', 'athlet', 'closet', 'zeigher', 'said', 'iy', 'hyper', 'heteromeninm', 'exist', 'locket', 'roam', 'neg', 'talk', 'bay', 'peopl', 'isnot', 'ist', 'instead', 'demean', 'talk', 'women']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test113.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test114.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1161.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test117.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test119.jpg,"['eeeo', 'verizon', 'lte', 'hd', 'apolog', 'anyth', 'neg', 'ive', 'said', 'toward', 'gay', 'matter', 'anyon', 'young', 'ignor', 'stupid', 'bad', 'place', 'ive', 'move', 'learn', 'mistak', 'truli', 'sorri', 'anyon', 'offend', 'noth', 'anyon', 'anyth', 'promot', 'equal', 'sorri', 'qiwiefretilyfuptilfoip', 'aisidifigihijpkel', 'zxc', 'vb', 'nm', 'ge', 'gee', 'eee']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1199.jpg,"['realiz', 'sa', 'ere', 'gay', 'way', 'gay', 'use', 'nowaday', 'neg', 'connot', 'mean', 'brightli', 'color', 'happi', 'homosexu', 'weak', 'bogu', 'ridicul', 'frivol', 'childish', 'absurdawkward', 'freaki', 'choos', 'word', 'mean', 'mean', 'say', 'smart', 'thing', 'te']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test122.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1229.jpg,"['coumea', 'rua', 'reh', 'kid', 'never', 'abl', 'understand', 'attack', 'upon', 'gay', 'commun', 'mani', 'qualiti', 'make', 'human', 'time', 'get', 'thing', 'realli', 'admir', 'peopl', 'privat', 'part', 'probabl', 'low', 'list', 'irrelev', 'sem', 'tite', 'lt', 'eer']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1240.jpg,"['er', 'tthe', 'detev', 'big', 'event', 'final', 'hohe', 'eskondnsndeel', 'eed', 'aa']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test125.jpg,"['bitch', 'ghetto', 'illeg', 'alien', 'homo', 'retard', 'lame', 'that', 'gay', 'whoreho', 'slut']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test126.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1271.jpg,"['marriag', 'alway', 'man', 'woman', 'ete', 'rae', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1279.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test128.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test129.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1290.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test131.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test132.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test133.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test134.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test135.jpg,"['oppos', 'gay', 'right', 'bibl', 'unless', 'also', 'tri', 'outlaw', 'shrime', 'cocktail', 'lev', 'curs', 'lev', 'wormen', 'jean', 'deut', 'arrog', 'prov', 'lie', 'prov', 'bacon', 'lev', 'adulteri', 'deut', 'workitg', 'sutiday', 'num', 'pleas', 'shut', 'hell', 'upl']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1353.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1359.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test136.jpg,"['es', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test140.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test141.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test143.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test144.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test145.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test149.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test151.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test152.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test154.jpg,"['say', 'lgrt', 'neg', 'factor', 'thei', 'tite', 'ee', 'es', 'raat', 'arentn', 'rete', 'ae', 'come', 'p', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test158.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test160.jpg,['fs'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test161.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1615.jpg,"['slrleakectieesrema', 'ee', 'elena', 'een', 'rea', 'peor', 'iolrngeiean', 'terial', 'poorer', 'rresronsi', 'ecient', 'eet', 'tne', 'nr', 'reed']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test162.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1620.jpg,"['love', 'beau', 'hid', 'clo', 'ior']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1634.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test164.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1644.jpg,['elaina'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test165.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test166.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test168.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1717.jpg,"['', 'otewd', 'cg']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test172.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1724.jpg,"['es', 'p', 'tb', 'agedi', 'acre', 'ar', 'tel', 'ic', 'haircut', 'ff']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test173.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1743.jpg,"['jut', 'lept', 'store', 'lament', 'ute', 'é', 'wosnt', 'even', 'f', 'troubl', 'lesbian', 'love', 'triangl', 'cant', 'tell', 'ay', 'talk', 'molli', 'ringl']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test176.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1767.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1776.jpg,"['cours', 'gay', 'men', 'tea', 'eel', 'seer', 'ur', 'mea', 'closet', 'noth', 'gay', 'proud', 'quot', 'www', 'geckoandflycom']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1785.jpg,"['afraid', 'bm', 'atoh', 'mor', 'truth', 'true', 'tv', 'n', 'cond', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1788.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test179.jpg,"['cee', 'mye', 'tae', 'aye', 'ee', 'es', 'et', 'tne', 'nt', 'pf', 'ng', 'hn', 'de', 'ye', 'yh']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test180.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1803.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test181.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1818.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test183.jpg,"['ao', 'sie', 'ry', 'mg', 'z', 'u', 'f', 'j', 'z', 'u', 'iy', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1837.jpg,['oe'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1856.jpg,"['funni', 'know', 'gay', 'peopl', 'exist', 'proof', 'god', 'ee', 'uou', 'ee', 'eta', 'tate', 'pie', 'eso', 'pe', 'nm', 'ke', 'eee', 'ek', 'ee', 'gay', 'proud', 'quot', 'www', 'geckoandflycom', 'tae', 'bi', 'oe', 'bree']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test187.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1872.jpg,"['gay', 'like', 'left', 'hand', 'peopl', 'peopl', 'arent', 'fete', 'eee', 'are', 'ce', 'ate', 'ieee', 'cee', 'way', 'thing', 'gay', 'proud', 'quot', 'www', 'geckoandflycom', 'wd', 'oy', 'h']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test188.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1884.jpg,"['val', 'ne', 'heard', 'ga', 'icrou', 'nalv', 'tu', 'irrat', 'interest', 'curiow', 'eccentr', 'bogu', 'foolish', 'gooti', 'insipid', 'absurd', 'ridicul', 'asinin', 'oy', 'og', 'ae', 'areal', 'weet']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1885.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1889.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1902.jpg,"['se', 'ce', 'ee', 'ad', 'card', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test191.jpg,"['jasonj', 'jayb', 'ad', 'everyon', 'add', 'new', 'snapchat', 'comment', 'name', 'ill', 'post', 'posit', 'quot', 'everi', 'day', 'igbtprid', 'loveislov', 'igbt', 'tran', 'transmatt', 'transgend', 'transgirl', 'transmal', 'lesbian', 'lesbiansex', 'gayprid', 'gay', 'bi', 'bisexualprid', 'bisexu', 'biprid', 'asexu', 'asexualprid', 'pansexualprid', 'pansexu', 'protecttranskid', 'pride', 'swag', 'ftm', 'mtf']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test192.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1923.jpg,"['ce', 'ae', 'stag', 'recent', 'rise', 'homophob', 'pit', 'ea', 'ate', 'success', 'posit', 'gay', 'imag']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1934.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test194.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1954.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test198.jpg,"['antilgbt', 'state', 'law', 'restrict', 'teacher', 'staff', 'talk', 'lgbt', 'issu', 'school']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test1992.jpg,"['colt', 'ng', 'straight', 'vey', 'gs', 'rainbow']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2007.jpg,"['en', 'power', 'surviv', 'il', 'audr', 'lord']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test201.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test204.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2049.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test206.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2068.jpg,"['ay', 'ai', 'acca', 'ei']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test209.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test211.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2114.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test212.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test213.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test216.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test218.jpg,['f'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2209.jpg,"['elolebaaitieebabe', 'act', 'bee', 'ore', 'ld', 'pieehierserl', 'tena']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test221.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2235.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test225.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test227.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test228.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2280.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test230.jpg,"['top', 'pro', 'con', 'quot']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2309.jpg,"['', 'find', 'person', 'aiatea', 'vel', 'el', 'put', 'earth', 'find', 'truth', 'live', 'truth', 'everyth', 'els', 'fs', 'cd', 'f', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test231.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test232.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test233.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test234.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test236.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test237.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2371.jpg,"['peopl', 'ask', 'see', 'smile', 'look', 'away', 'tm', 'afraid', 'knew', 'theyd', 'fall', 'love']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test238.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test239.jpg,"['learn', 'hard', 'way', 'either', 'say', 'feel', 'fuck', 'say', 'noth', 'let', 'fuck', 'instead', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test240.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2411.jpg,"['tsn', 'g', 'wont', 'come', 'clo', 'well', 'ju', 'pti', 'l', 'pnr', 'ae']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test242.jpg,"['', 'either', 'say', 'feel', 'fuck', 'say', 'noth', 'let', 'fuck', 'instead', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2424.jpg,"['la', 'dfyad', 'tl']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test243.jpg,"['lgbtq', 'freedom', 'mo', 'middl', 'ea']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2434.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test244.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test245.jpg,"['antibulli', 'state', 'law', 'prohibit', 'bulli', 'student', 'base', 'sexual', 'orient', 'gender', 'ident', 'massachusett', 'minnesota', 'x', 'nevada', 'new', 'hampshir', 'é', 'new', 'jersey', 'new', 'york', 'north', 'carolina', 'rhode', 'istand', 'washington', 'washington', 'oc']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2455.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test249.jpg,"['eee', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test250.jpg,['wwwgdblognet'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2590.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2616.jpg,"['ae', 'br', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2648.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2650.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2743.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2791.jpg,"['zeigler', 'author', 'fair', 'play', 'lgbt', 'athlet', 'claim', 'right', 'place', 'sport', 'defi', 'notion', 'sport', 'inher', 'homophob', 'part', 'keep', 'gay', 'athlet', 'closet', 'zeigler', 'said', 'hyper', 'heterosex', 'exist', 'locker', 'room', 'neg', 'talk', 'gay', 'peopl', 'issu', 'instead', 'demean', 'talk', 'women']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2792.jpg,"['sr', 'eee', 'eon', 'pere', 'cae', 'rar', 'pench', 'aoe', 'enc', 'cross', 'forgav', 'peopl', 'seek', 'eo', 'ty', 'love', 'forgiv', 'dont', 'know', 'make', 'peopl', 'cruel', 'tri', 'pee', 'your', 'good', 'dead', 'aa']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2870.jpg,"['woe', 'ete', 'sel', 'ell', 'eo', 'eel', 'ee', 'alien', 'outer', 'space', 'funni', 'gerard', 'wey']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2959.jpg,"['lil', 'swh', 'tel', 'lad', 'ceris', 'es', 'cee']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2962.jpg,"['ee', 'ed', 'cl', 'noo', 'es', 'al', 'pa', 'us', 'oh']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test2977.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3024.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3030.jpg,"['', 'onstag', 'devil', 'im', 'hardli', 'social', 'reject', 'freddi']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3118.jpg,"['ty', 'keep', 'calm', 'love', 'want', 'ior']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3130.jpg,"['ed', 'od', 'norm', 'never', 'know', 'ea', 'seareai', 'oe', 'chia']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3159.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3177.jpg,"['uve', 'po', 'ry']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3246.jpg,"['love', 'eve']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3265.jpg,"['alot', 'parent', 'er', 'ame', 'pete', 'est', 'cm', 'tcl', 'ee', 'ici', 'pc', 'moy', 'c', 'gay', 'proud', 'quot', 'rl', 'oa', 'ac', 'ss', 'hcucou', 'hcu', 'e', 'eee']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3277.jpg,"['yd', 'sette', 'ee', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3294.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3360.jpg,"['cee', 'poe', 'eee', 'ee', 'roo', 'lae']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3512.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3525.jpg,"['realiz', 'say', 'sa', 'gay']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test353.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3566.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test360.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3625.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3706.jpg,"['', 'shine', 'soul', 'egoless', 'humil', 'sith', 'gree', 'ga', 'rett', 'ober', 'yon', 'go', 'world', 'next', 'love', 'find', 'attend', 'gless', 'gg', 'ae', 'aberjia', 'p', 'ant', 'sara', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test372.jpg,"['gay', 'cultur', 'surviv', 'thrive', 'ctivist', 'believ', 'recent', 'ae', 'homophob', 'violenc', 'might', 'gaug', 'success', 'posit', 'gay', 'imag']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test374.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3749.jpg,"['uav', 'att', 'mel', 'hi', 'ret', 'haag', 'f']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3750.jpg,"['taught', 'us', 'anyth', 'one', 'ce', 'od']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test378.jpg,"['keep', 'calm', 'okay']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3789.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3798.jpg,"['', 'ap']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3827.jpg,"['gay', 'crime', 'sin', 'stop', 'use', 'god', 'justifi', 'prejudic', 'nee', 'erele', 'lim', 'eu', 'iem', 'gs', 'fu', 'mm', 'cum', 'cey', 'mee', 'isd', 'se', 'eli', 'cem', 'co', 'k', 'ee', 'gay', 'proud', 'quot', 'www', 'geckoandflycom', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3863.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3864.jpg,"['tae', 'ad', 'mlc', 'one', 'ed']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3893.jpg,"['', 'hf', 'your', 'proud', 'your', 'miss', 'best', 'month', 'year', 'dont', 'spend', 'anoth', 'year', 'hide', 'closet', 'fear', 'shame', 'dont', 'forev', 'deserv', 'er', 'tribe', 'wait', 'welcom', 'home', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3934.jpg,"['bay', 'sg', 'lt', 'tee', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test396.jpg,"['cs', 'ee', 'wrong', 'ast', 'ade', 'sr', 'rk', 'bo', 'da']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test397.jpg,"['', 'back', 'denial', 'activ', 'co', 'ye', 'passiv', 'caught', 'shadowbox', 'subconsci', 'determin', 'dodg', 'danger', 'natur', 'desir']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3975.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test3985.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test400.jpg,"['gay', 'like', 'left', 'hand', 'peopl', 'peopl', 'arent', 'fete', 'eee', 'are', 'ce', 'ate', 'ieee', 'cee', 'way', 'thing', 'gay', 'proud', 'quot', 'www', 'geckoandflycom', 'wd', 'oy', 'h']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test417.jpg,"['ue', 'eet', 'ec', 'ee', 'pea', 'mt', 'eed', 'ce', 'eon', 'os', 'cur', 'lcm', 'rag', 'your', 'rememb', 'ece', 'et', 'u', 'tr', 'ag', 'cc', 'el', 'elen', 'oe', 'cem', 'mg', 'og', 'ee', 'eee', 'eae', 'a']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test422.jpg,['sound'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test440.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test449.jpg,"['un', 'anyth', 'neutral']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test482.jpg,"['legal', 'fifti', 'state']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test489.jpg,"['pe', 'st', 'ca', 'ry', 'de', 'pe']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test490.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test498.jpg,"['eae', 'ee', 'ei', 'ar', 'ale', 'cee', 'lzel', 'pci', 'nmr', 'eca', 'che', 'sli', 'grsd', 'angri', 'someon', 'eat', 'donut', 'your', 'diet', 'gay', 'proud', 'quot', 'www', 'geckoandflycom', 'ae', 'l', 'isésc', 'ee']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test516.jpg,"['there', 'noth', 'wrong', 'there', 'alo']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test519.jpg,"['', 'dreamstimecom', 'orcc', 'nn', 'acn', 'ir']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test522.jpg,"['', 'pressur', 'gay', 'teen', 'ohpehasiljuceslegtesantetrand', 'slaw', 'tatiduiphoglnaiacadd', 'corr', 'death', 'care', 'love', 'accept', 'pe', 'pepepoemoar', 'ce', 'pann']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test523.jpg,"['cle', 'cr', 'era']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test526.jpg,"['ea', 'ee']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test527.jpg,"['gay', 'pride', 'lgbt', 'pride', 'posit', 'stanc', 'discrimin', 'violenc', 'toward', 'lesbian', 'gay', 'bisexu', 'transgend', 'lgbt', 'peopl', 'promot', 'selfaffirm', 'digniti', 'equal', 'right', 'increas', 'visibl', 'social', 'group', 'build', 'commun', 'celebr', 'sexual', 'divers', 'gender', 'varianc', 'youruotei']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test533.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test536.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test545.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test579.jpg,"['life', 'game', 'play', 'win']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test581.jpg,"['', 'poop', 'wha', 'said', 'pm', 'meng', 'tree', 'pend', 'soppertic', 'fy', 'marriag', 'yy', 'atopt', 'wh', 'ide', 'renpecthmbl', 'det', 'met', 'mrni', 'brane', 'deer', 'bam', 'cing', 'love', 'loa', 'human', 'experi', 'eet', 'peta', 'nate']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test587.jpg,['stund'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test606.jpg,"['warn', 'act', 'ot', 'exist']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test612.jpg,['yrurget'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test614.jpg,"['', 'learn', 'compass', 'discrimin', 'everyth', 'bad', 'ever', 'happen', 'taught', 'compass', 'eelen', 'degener']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test624.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test644.jpg,"['aa', 'cu', 'dinu', 'se', 'uu', 'ty', 'se', 'ee', 'acr']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test660.jpg,"['se', 'aad', 'mip', 'aad', 'sa', 'chose', 'way', 'import', 'fact', 'pt', 'sno', 'pay', 'et']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test661.jpg,"['fall', 'asleep', 'caus', 'didnt', 'want', 'say', 'goodby']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test665.jpg,"['', 'straight', 'sg', 'fine', 'straight', 'os', 'ora', 'street', 'human', 'heart', 'oh', 'dt', 'curv', 'likea', 'road', 'mountain', 'qsayingimagescom', 'tennesse', 'william']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test668.jpg,"['', 'right', 'un', 'anyth', 'neutral']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test677.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test715.jpg,"['gay', 'cultur', 'ieee', 'hice', 'bale', 'thrive', 'activist', 'believ', 'recent', 'rise', 'homophob', 'violenc', 'pecb', 'tc', 'ol', 'em', 'rc', 'os', 'success', 'lesh', 'r', 'cec', 'nab', 'bre', 'ie', 'spr', 'et', 'bac']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test751.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test757.jpg,"['er', 'co', 'ani', 'ete', 'fron', 'happen', 'deeg', 'ceti']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test760.jpg,"['wd', 'stand', 'ap', 'start', 'te', 'figmt']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test761.jpg,"['cpehiev', 'your', 'halfway', 'roosevelt']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test778.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test779.jpg,"['legal', 'fifti', 'state']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test789.jpg,"['poe', 'wholli', 'affect', 'ee']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test803.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test811.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test812.jpg,"['life', 'game', 'play', 'win']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test824.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test833.jpg,"['hate', 'caus', 'lot', 'problem', 'world', 'solv', 'one', 'yet', 'maya', 'angel']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test834.jpg,"['', 'bach', 'time', 'woman', 'stand', 'without', 'know', 'possibl', 'without', 'claim', 'stand', 'women', 'mara', 'amornow']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test835.jpg,['sound'],"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test837.jpg,"['peat', 'boy', 'girl', 'ion', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test843.jpg,"['love', 'womeanijan']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test859.jpg,"['myth', 'femal', 'friendship', 'must']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test861.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test884.jpg,"['', 'liev', 'your', 'halfway', 'roosevelt']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test890.jpg,"['biblic', 'case', 'support', 'samesex', 'relationship', 'gia', 'lnce', 'uray', 'matthew', 'vine']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test903.jpg,"['empow', 'pati', 'wei', 'aie', 'ri', 'owatt', 'pag', 'dani', 'se', 'fy', 'oe']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test912.jpg,"['', 'al', 'stand', 'start', 'fight', 'harvey', 'milk', 'gsavingimagescom']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test929.jpg,"['happi', 're', 'en', 'stal', 'ae', 'ni', 'aau', 'sayand', 'wasi', 'doarein', 'ail', 'aaglelan', 'inspir', 'posit', 'quot', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test937.jpg,"['lovabl', 'yworthi', 'enough', 'brave']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test941.jpg,"['et', 'oo', 'cea', 'ree', 'eal']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test942.jpg,"['', 'lam', 'free', 'woman', 'unfre', 'even', 'shackl', 'differ', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test945.jpg,"['hate', 'ir', 'caus', 'alot', 'problem', 'world', 'solv', 'one', 'et', 'mava', 'axcel']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test946.jpg,"['', 'tam', 'free', 'woman', 'unfre', 'even', 'shackl', 'differ', 'audr', 'lord', 'gh']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test957.jpg,"['mh', 'wk', 'gay', 'isa', 'asu', 'al', 'lf']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test979.jpg,[''],"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",Random
+Test993.jpg,"['gay', 'crime', 'sin', 'stop', 'use', 'god', 'justifi', 'prejudic', 'nee', 'erele', 'lim', 'eu', 'iem', 'gs', 'fu', 'mm', 'cum', 'cey', 'mee', 'isd', 'se', 'eli', 'cem', 'co', 'k', 'ee', 'gay', 'proud', 'quot', 'www', 'geckoandflycom', '']","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Random
