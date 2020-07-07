@@ -18,3 +18,10 @@ __Day 34:__
 
 - Love is Love Hackathon
 - The Python Imaging Library {Week 1} - Coursera course
+
+__Day 35:__
+
+- Love is Love Hackathon
+- Completed PIL
+- Learnt how to process images from Zipfile
+- EAST for OCR recgonition
