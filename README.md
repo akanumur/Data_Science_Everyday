@@ -25,3 +25,9 @@ __Day 35:__
 - Completed PIL
 - Learnt how to process images from Zipfile
 - EAST for OCR recgonition
+
+__Day 36:__
+
+- Command Line Arguments for image processing
+- Resnet Image processing
+- EAST implementation
