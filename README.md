@@ -31,3 +31,8 @@ __Day 36:__
 - Command Line Arguments for image processing
 - Resnet Image processing
 - EAST implementation
+
+__Day 37-39:__
+- Retrieve Image
+- Amazon Least price
+- OCR
