@@ -36,3 +36,6 @@ __Day 37-39:__
 - Retrieve Image
 - Amazon Least price
 - OCR
+
+__Day 41:__
+- ResNet 50
