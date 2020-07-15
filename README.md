@@ -39,3 +39,9 @@ __Day 37-39:__
 
 __Day 41:__
 - ResNet 50
+
+__Day 42:__
+- ResNet & VGG Understanding and Implementation (Transfer Learning)
+- Resource: 
+	- https://www.youtube.com/watch?v=zBOavqh3kWU
+	- https://www.youtube.com/watch?v=yofjFQddwHE
