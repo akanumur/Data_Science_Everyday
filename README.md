@@ -37,11 +37,18 @@ __Day 37-39:__
 - Amazon Least price
 - OCR
 
-__Day 41:__
+__Day 40-41:__
 - ResNet 50
 
-__Day 42:__
+__Day 42-43:__
 - ResNet & VGG Understanding and Implementation (Transfer Learning)
 - Resource: 
 	- https://www.youtube.com/watch?v=zBOavqh3kWU
 	- https://www.youtube.com/watch?v=yofjFQddwHE
+
+__Day 44:__
+- Google ResNet 50 & 152
+
+__Day 45:__
+- Churn Prediction Mini Project
+
