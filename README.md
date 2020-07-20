@@ -52,3 +52,8 @@ __Day 44:__
 __Day 45:__
 - Churn Prediction Mini Project
 
+__Day 46:__
+- Google API Vision for Love is Love
+- Baseline Prediction for Regression
+- ResNet 50 for Google Retrieval
+
