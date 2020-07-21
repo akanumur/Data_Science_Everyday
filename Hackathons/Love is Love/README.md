@@ -43,3 +43,10 @@ https://tesseract-ocr.github.io/tessdoc/
 Pytesseract is a wrapper for Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can read all image types supported by the Pillow and Leptonica imaging libraries, including jpeg, png, gif, bmp, tiff, and others. 
 
 For Sentiment Analysis I have used VADER Sentiment Analysis.
+
+## Results
+
+PyTesseract + vader Sentiment Analysis = 43.417
+Google API Vision + Vader Sentiment Analysis = 51.164
+
+STOOD AMONG TOP 1%

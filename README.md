@@ -57,3 +57,5 @@ __Day 46:__
 - Baseline Prediction for Regression
 - ResNet 50 for Google Retrieval
 
+__Day 46:__
+- Google API Vision for Love is Love
