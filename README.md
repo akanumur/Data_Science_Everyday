@@ -59,3 +59,6 @@ __Day 46:__
 
 __Day 46:__
 - Google API Vision for Love is Love
+
+__Day 47:__
+- Predict Lowest Price Hackathon
