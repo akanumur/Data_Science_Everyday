@@ -62,3 +62,6 @@ __Day 46:__
 
 __Day 47:__
 - Predict Lowest Price Hackathon
+
+__Day 48:__
+- Mini Projects
