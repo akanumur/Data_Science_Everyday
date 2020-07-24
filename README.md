@@ -65,3 +65,6 @@ __Day 47:__
 
 __Day 48:__
 - Mini Projects
+
+__Day 49:__
+- Machine Learning in Agriculture Hackathon
