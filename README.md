@@ -68,3 +68,8 @@ __Day 48:__
 
 __Day 49:__
 - Machine Learning in Agriculture Hackathon
+
+__Day 50:__
+- Machine Learning in Agriculture Hackathon Imbalanced techniques
+- Article on Google API
+- Article on SMOTE
