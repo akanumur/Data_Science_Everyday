@@ -73,3 +73,6 @@ __Day 50:__
 - Machine Learning in Agriculture Hackathon Imbalanced techniques
 - Article on Google API
 - Article on SMOTE
+
+__Day 51:__
+- Machine Learning in Agriculture Hackathon LightGBM
