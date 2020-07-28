@@ -76,3 +76,6 @@ __Day 50:__
 
 __Day 51:__
 - Machine Learning in Agriculture Hackathon LightGBM
+
+__Day 52:__
+- Python Practice
