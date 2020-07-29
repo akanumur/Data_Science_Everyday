@@ -79,3 +79,8 @@ __Day 51:__
 
 __Day 52:__
 - Python Practice
+
+__Day 53:__
+- TimeSeries Forecasting
+	- TimeSeries for webtraffic
+	- Concepts of ARIMA,Trend & Seasonality
