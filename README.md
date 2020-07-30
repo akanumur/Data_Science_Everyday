@@ -84,3 +84,13 @@ __Day 53:__
 - TimeSeries Forecasting
 	- TimeSeries for webtraffic
 	- Concepts of ARIMA,Trend & Seasonality
+
+__Day 54:__
+- Multiple Linear Regression
+	- ANOVA
+	- R^2,R^2(adjusted),R^2(pred)
+- Time Series
+	-ARMA
+	-ARIMA
+	-seasonality
+	-stationarity
