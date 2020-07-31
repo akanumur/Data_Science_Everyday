@@ -94,3 +94,6 @@ __Day 54:__
 	-ARIMA
 	-seasonality
 	-stationarity
+
+__Day 55:__
+- Revision of ML Algorithms
