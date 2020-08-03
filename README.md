@@ -97,3 +97,7 @@ __Day 54:__
 
 __Day 55:__
 - Revision of ML Algorithms
+
+__Day 56-58:__
+- Time Series Analysis
+- Statistical Analysis
