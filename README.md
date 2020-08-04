@@ -101,3 +101,6 @@ __Day 55:__
 __Day 56-58:__
 - Time Series Analysis
 - Statistical Analysis
+
+__Day 59:__
+- Bias & Variance
