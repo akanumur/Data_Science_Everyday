@@ -104,3 +104,6 @@ __Day 56-58:__
 
 __Day 59:__
 - Bias & Variance
+
+__Day 60:__
+- SQL Practice 
