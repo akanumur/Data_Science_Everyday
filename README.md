@@ -106,4 +106,7 @@ __Day 59:__
 - Bias & Variance
 
 __Day 60:__
-- SQL Practice 
+- SQL Practice
+
+__Day 61:__
+- Natural Language Processing
