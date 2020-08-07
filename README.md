@@ -110,3 +110,6 @@ __Day 60:__
 
 __Day 61:__
 - Natural Language Processing
+
+__Day 62-63:__
+- Natural Language Processing Projects
