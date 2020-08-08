@@ -113,3 +113,6 @@ __Day 61:__
 
 __Day 62-63:__
 - Natural Language Processing Projects
+
+__Day 64:__
+- Word Cloud in Python
