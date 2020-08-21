@@ -116,3 +116,9 @@ __Day 62-63:__
 
 __Day 64:__
 - Word Cloud in Python
+
+__Day 65:__
+- Playstore App Prediction Hackathon
+
+__Day 66:__
+- Pivoting Sales Data
